@@ -200,7 +200,7 @@ NeverLose.ImageColorMapping = "rbxassetid://4155801252";
 
 if getcustomasset then
 	local link = "https://github.com/cry-reykax/oh/blob/main/assets/%s?raw=true";
-	local dir = 'NLAssets';
+	local dir = 'XHitAssets';
 
 	if not isfolder(dir) then
 		makefolder(dir);
